@@ -1,2 +1,9 @@
 db.json
-settings.config
+settings.cfg
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.env
